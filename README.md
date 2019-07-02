@@ -1,2 +1,4 @@
 # Fetch-JSON-from-API
-JavaScript
+lat / lon mapping of the ISS
+
+JavaScript, HTML, JSON, API
