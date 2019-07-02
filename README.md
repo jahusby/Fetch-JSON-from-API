@@ -1,4 +1,4 @@
 # Fetch-JSON-from-API
-lat / lon mapping of the ISS
+live lat / lon map of the ISS with icon
 
 JavaScript, HTML, JSON, API
